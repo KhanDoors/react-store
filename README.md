@@ -1,1 +1,3 @@
 # react-store
+
+git ignore
